@@ -2,5 +2,5 @@ include <iostream.h>
 using namespace std;
 void main()
 {
-  cout<<"like you!"；
+  cout<<"like you yuan!"；
 }
